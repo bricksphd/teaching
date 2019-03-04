@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+
+<head>
+  <title></title>
+   <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
+   <link href="https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.min.css" rel="stylesheet">
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+
+<body>
+  <div id='app'>
+      <v-app>
+          <v-content>
+            <v-container grid-list-md>
+              <v-layout row wrap>
+                <v-flex xs12>
+                  <div class="display-3 font-weight-thin">{{title}}</div>
+                </v-flex>
+                <v-flex xs12 class="display-1 font-weight-thin">
+                <div v-if="left">
+                  <v-icon v-for="i in arrows" :key="i">fa fa-arrow-left</v-icon>
+                </div>
+                <div v-if="!left">
+                  <v-icon  v-for="i in arrows" :key="i">fa fa-arrow-right</v-icon>
+                </div>
+                </v-flex>
+                <v-flex xs12 v-for="message in messages" :key="message">
+                  <v-card flat class="headline">
+                    <v-card-title>
+                      {{message}}
+                    </v-card-title>
+                  </v-card>
+                </v-flex>
+              </v-layout>
+            </v-container>
+          </v-content>
+        </v-app>
+   
+  </div>
+
+  <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
+  <script src='https://unpkg.com/vue'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js'></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js"></script>
+  
+
+  <script>
+
+    var app = new Vue({
+      el: '#app',
+      data: {
+        left: false,
+        arrows: 20,
+        title: "Today is a sprint day!",
+        messages: ["If you sit on this side of the class        go to canvas, quizzes, and do the self assessment.",  "I’ll come around to you and we’ll chat.", "Everyone: Bring up your current work. This time is yours. Raise your hand and I’ll answer any question you have.", "I may interrupt if I have something to share with everyone. Otherwise, relax and have fun working on your game. Feel free to chat, team work is a good thing."]
+      },
+      methods: {
+       
+      },
+    });
+
+   
+
+   
+
+  </script>
+
+</body>
+
+</html>
+
+
+
