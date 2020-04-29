@@ -10,6 +10,8 @@ Go to canvas and use VidGrid to create a 2-minute or less video with adudio. Not
 
 ![GIF Image showing the steps to open VidGrid in Canvas](https://app.vidgrid.com/video/gif/ONyh0vzIwDF0.gif)
 
+Take the "Final Presentation VidGRid Link Submission" quiz and put in your VidGrid link.
+
 ## On the day of the final
 
 ![GIF animation showing the final times on the official website](https://app.vidgrid.com/video/gif/C6mZrm9uzYDC.gif)
@@ -42,3 +44,5 @@ You are done with the final and can sign off
 - I will put the finals grades in Canvas.
 
 - I Usually get grades into the registrars office by the end of the day or early the next morning.
+
+
