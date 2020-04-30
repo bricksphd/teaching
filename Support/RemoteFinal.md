@@ -6,7 +6,7 @@ Continue to work hard on your sprint project.
 Double check your grades. All grades are final when the final starts.
 
 ## Before the Final
-Go to canvas and use VidGrid to create a 2-minute or less video with adudio. Note that on Canvas VidGrid is called UNO Academic Video on the menu.
+Go to canvas and use VidGrid to create a 2-minute or less video with out audio. Note that on Canvas VidGrid is called UNO Academic Video on the menu.
 
 ![GIF Image showing the steps to open VidGrid in Canvas](https://app.vidgrid.com/video/gif/ONyh0vzIwDF0.gif)
 
