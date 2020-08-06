@@ -8,7 +8,7 @@
 - Textbook: None required.
 
 ## Policies
-- Standard grading scale, see GradingScale.md
+- [Standard grading scale](https://github.com/bricksphd/teaching/blob/master/GradingScale.md)
 - All grades are final a week after the grade is posted or when the final starts, which ever comes sooner.
 - The grade for the final is final at close of business the day of the final.
 
