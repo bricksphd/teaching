@@ -12,3 +12,5 @@
 |D  |< 67.0 %|>= 64.0%|
 |D- |< 64.0 %|>= 61.0%|
 |F  |< 61.0 %|- |
+
+Note that failure to attend class (per CS policy) or failure to meet minimum requirements for the course (such as taking the final or completing projects) can result in a forced withdrawl, an F or an FW.
