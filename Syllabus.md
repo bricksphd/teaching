@@ -16,8 +16,8 @@
 Most semesters I have to drop or fail a student for lack of attendance. 
 **You will not be an exception.**
 
-- I do not tolerate scholarship/student loan fraud. If you are taking the class with no intention of completing it, I will drop you from the class.
-- Much of the grading in this class is subjective.  By taking this class, you agree to live with subjective grading.
+- I do not tolerate scholarship/student loan fraud. If you are taking the class with no intention of completing it, I will drop you from the class and contact the relevant stakeholders.
+- Much of the grading in this class is subjective.  By taking this class, you agree to accept my subjective grading.
 - For students with disabilities: I *will* work with you, but you will receive no accommodation unless you go through Disability Services. You also must talk to me directly before I can give you any accommodation.
 
 _Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, Email: unoaccessibility@unomaha.edu)_
