@@ -28,9 +28,8 @@ Most semesters I have to drop or fail a student for lack of attendance.
 
 :rotating_light: I do not regrade or change grades unless there has been a clear error. I have refused to change grades even though it meant students: had to leave the country due to visa restrictions,  couldn't graduate on time, had to take the course again, couldn't take a follow-on course, failed to make the honor roll, etc. **You will not be an exception.** 
 
+## ...And of Course
 
-
-
-_Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficienEmphasis of _sufficiently in advance._
+_Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, Email: unoaccessibility@unomaha.edu)_
 
 _Please also check and read the UNO Academic Integrity Policy and Procedures at https://www.unomaha.edu/student-life/student-conduct-and-community-standards/policies/academic-integrity.php_
