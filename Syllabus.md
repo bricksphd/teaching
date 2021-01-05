@@ -24,7 +24,6 @@ Most semesters I have to drop or fail a student for lack of attendance.
 
 :heavy_check_mark: Much of the grading in this class is subjective.  By taking this class, you agree to accept my subjective grading.
 
-_Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, Email: unoaccessibility@unomaha.edu)_ For students with disabilities: I *will* work with you, but you will receive no accommodation unless you go through Disability Services. You also must talk to me directly before I can give you any accommodation.
-
+_Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficienEmphasis of _sufficiently in advance._
 
 _Please also check and read the UNO Academic Integrity Policy and Procedures at https://www.unomaha.edu/student-life/student-conduct-and-community-standards/policies/academic-integrity.php_
