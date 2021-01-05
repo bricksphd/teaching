@@ -2,11 +2,11 @@
 
 ## Fast Facts
 
-- Instructor: Dr. B. Ricks,  
-- Contact: PKI 174H, unomaha.edu email starting with bricks.
-- Office Hours: Whenever you want. For best result, email me to make an appointment.
-- Textbook: None required.
-- [Standard grading scale](https://github.com/bricksphd/teaching/blob/master/GradingScale.md)
+- :man_teacher: Instructor: Dr. B. Ricks,  
+- :email: Contact: PKI 174H, unomaha.edu email starting with bricks.
+- :watch: Office Hours: Whenever you want. For best result, email me to make an appointment.
+- :closed_book: Textbook: None required.
+- :balance_scale: [Standard grading scale](https://github.com/bricksphd/teaching/blob/master/GradingScale.md)
 
 ## Policies
 
