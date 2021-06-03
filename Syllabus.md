@@ -4,9 +4,9 @@
 
 :man_teacher: Instructor: Dr. B. Ricks,  
 
-:email: Contact: PKI 174H, unomaha.edu email starting with bricks.
+:email: Contact: PKI 174H, bricks~unomaha.edu.
 
-:watch: Office Hours: Whenever you want. For best result, email me to make an appointment.
+:watch: Office Hours: Email me and we will find a time.
 
 :closed_book: Textbook: None required.
 
@@ -14,19 +14,13 @@
 
 ## Policies
 
-:hourglass: All grades are final a week after the grade is posted or when the final starts, whichever comes sooner. The grade for the final is final at close of business the day of the final.
+:hourglass: All grades are final a week after they are posted.
 
-:heavy_check_mark: Much of the grading in this class is subjective.  By taking this class, you agree to accept my subjective grading.
+:heavy_check_mark: By taking this class, you agree to accept my subjective grading.
  
- ## Warnings
+:rotating_light: You will be dropped after four unexcused absences (see the [official policy](https://github.com/bricksphd/teaching/blob/master/CSPolicies.docx)).
 
-:rotating_light: I enforce all CS department course policies, including the attendance and plagiarism policy (see the [policy document](https://github.com/bricksphd/teaching/blob/master/CSPolicies.docx) in this repository). 
-Most semesters I have to drop or fail a student for lack of attendance. 
-**You will not be an exception.** 
-
-:rotating_light: I do not tolerate fraud. If you enrolled in this class just to fulfil the requirements of your visa/scholarship/loan and don't attend class or perform at a minimum level, I will drop you from the class and contact the relevant stakeholders. **You will not be an exception.** 
-
-:rotating_light: I do not regrade or change grades unless there has been a clear error. I have refused to change grades even though it meant students: had to leave the country due to visa restrictions,  couldn't graduate on time, had to take the course again, couldn't take a follow-on course, failed to make the honor roll, etc. **You will not be an exception.** 
+:rotating_light: If you do not take the final, you will receive a failing grade. 
 
 ## ...And of Course
 
