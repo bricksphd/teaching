@@ -11,4 +11,5 @@ Any activity that a reasonable student would consider cheating is in a violation
 - Stay away from other's code. Instead use resources that talk about a concept using diagrams or written descriptions.
   - It is okay to study code if you need help with syntax, for example, a Stackoverflow question about how to write a for loop.
   - If you are copying and pasting code or trascribing code, you are most likely in violation of academic integrity.
+  - You are free to study any code the instructor posts. You cannot, however copy and paste it. If you want to use it, you must transcribe it.
 
