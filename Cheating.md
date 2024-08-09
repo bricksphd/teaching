@@ -1,7 +1,7 @@
 The cheating policy in this course is defined by three documents: the Universitites policy on academic integrity, the Computer Science Department policy on academic integrity, and this document. When determining if an activity violates academic integrity and what the consequence will be, the stricter of the policies will apply.
 
  
-## Golden Rule of Cheating
+## Class-specific Cheating Rule
 
 Any activity that a reasonable student would consider cheating is in a violation of academic integrity.
 
