@@ -19,4 +19,4 @@
 - Skipping the final will result in an FW
 - Don't show code, use diagrams if you need to explain things
 - Don't go ever 2:00. Videos that are too long lose points as do videos that are too short to convey what you did.
-- Do speak to the class instead of the projector
+- Do speak to the class, not the projector
