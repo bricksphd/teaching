@@ -6,7 +6,7 @@
 ## Before the Final
 - Collect screenshots of you running your project(s)
 - Generate any diagrams to describe your project
-- Combine them into a demo reel between 1 and 2 minutes w/o audio
+- Combine them into a demo reel between 1:30 and 2 minutes w/o audio
 - Upload to VuJa
 - Get the minified, public link to submit
 - Practice your presentation
@@ -14,6 +14,7 @@
 ## During the Final
 - Talk to the class as if you were talking to an interviewer
 - Be positive and honest
+- Talk about the items that are on the final rubric
 
 ## Reminders
 - Skipping the final will result in an FW
