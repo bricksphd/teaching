@@ -11,6 +11,7 @@
 - I reserve the right to mark you tardy if you miss part of class even if it is not at the beginning of class.
 - I will mark you absent if you miss a large part of class.
 - I will mark you absent if you attend class but blatantly do not participate in class activities when specifically asked to do so.
+- You must attend Sprint days to receive credit on that sprint day. The only exception are excused absences.
 - Per the Computer Science Department Policies, if you have four unexcused absences, you will be dropped from the class. You will also automatically fail the class if you do not take the final.
 - In addition to the policy above, your grade will decrease if you have excessive combined tardies/absences. For every four combined tardies/absences, you grade will go down one grade step (e.g. A->A-, B+->B, etc.)
 
