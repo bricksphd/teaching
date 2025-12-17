@@ -18,9 +18,9 @@
 # Cheating/AI
 
 - The cheating policy of this class is defined by the university policy on academic integrity and the Computer Science Policy of academic integrity.
-- The instructor will post code during the semester. You are free to use this code as a reference. You can even transcribe its contents (not including comments), but you may not copy directly in any electronic way.
+   - The instructor will post code during the semester. You are free to use this code as a reference. You can even transcribe its contents (not including comments), but you may not copy directly in any electronic way.
 - When determining if use of AI violates either of those policies, I treat AI as if it were a "person" in the university or department policies. If your use of the AI would violate either of those policies if the AI were a person, then the full consequences of cheating will be applied.
-- This does not mean you can never use AI. Just as you can ask others (or the internet) for basic help, AI can be a useful tool as long as you are still doing your own work.
+   - This does not mean you can never use AI. Just as you can ask others (or the internet) for basic help, AI can be a useful tool as long as you are still doing your own work.
 
 # AI FAQ
 
