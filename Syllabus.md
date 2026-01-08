@@ -3,10 +3,10 @@
 ## Classroom Policies
 
 1. Please keep this class a welcoming place by never having explicit content.
-1. Please do not wear headphones or earbuds during class (even if they are transparency mode) unless it is during free time when you can work on your projects.
+1. Please do not wear headphones or earbuds during class (even in transparency mode) unless it is during free time when you can work on your projects.
 
 ## Grading Policies
-1. All grades are final a week after the are posted or when the final starts, which ever comes sooner.
+1. All grades are final a week after they are posted or when the final starts, whichever comes sooner.
 
 ## Attendance Policies
 
@@ -25,9 +25,9 @@
 ## Cheating/AI
 
 1. The cheating policy of this class is defined by the university policy on academic integrity and the Computer Science Policy of academic integrity.
-   1. The instructor will post code during the semester. You are free to use this code as a reference. You can even transcribe its contents (not including comments), but you may not copy directly in any electronic way.
+   1. The instructor will post code during the semester. You are free to use this code as a reference. You can even transcribe its contents (excluding comments), but you may not copy directly in any electronic way.
 1. When determining if use of AI violates academic integrity policies, I treat AI as if it were a "person". If your use of the AI would violate either of those policies by that standard, then the full consequences of cheating will be applied.
-   1. This does not mean you can never use AI. Just as you can ask others (or the internet) for basic help, AI can be a useful tool as long as you are still doing your own work.
+   1. You still can use AI. Just as you can ask others for basic help, use can similarly use AI as long as you still do your own work.
 1. The minimum consequence for cheating is a 0 on the respective assignment. If cheating is identified during a sprint, the minimum consequence will be a 0 on that sprint's score.
    
 
