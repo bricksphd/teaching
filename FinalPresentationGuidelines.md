@@ -15,6 +15,8 @@
 - Practice your presentation
 
 ## During the Final
+- I'll call you up one at a time
+- Click on your link on the computer to open your video
 - Talk to the class as if you were talking to an interviewer
 - Be positive and honest
 - Talk about the items that are on the final rubric
